@@ -34,7 +34,18 @@
 }
 
 .card {
-  padding: 2em;
+  border: 1px solid white;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0.2rem 0.2rem white;
+}
+
+.card > h2{
+  font-size: 2rem;
+}
+
+.card > img{
+  border-radius: 1rem;
 }
 
 .read-the-docs {
