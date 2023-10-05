@@ -19,10 +19,11 @@ function App() {
   return (
 
     <>
+      <div className="cards-list">
        {personagens.map(function(personagem) {
            return <Card item={personagem}/>
        })}
-       
+      </div>
 
     </>
 
