@@ -10,7 +10,7 @@ function App() {
   }
 
   const personagem2 = {
-    nome: 'Rick Sanchez',
+    nome: 'Marty Smith',
     imagemUrl: 'https://rickandmortyapi.com/api/character/avatar/2.jpeg'
   }
 
