@@ -1,6 +1,6 @@
 import './Card.css'
 
-function Card(){
+export default function Card(){
     return(
         <div className="card">
            <h2>Rick Sanchez</h2>
