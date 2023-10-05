@@ -4,6 +4,7 @@
     border-radius: 1rem;
     box-shadow: 0.2rem 0.2rem white;
     transition: all 0.1s;
+    cursor: pointer;
   }
   
   .card:hover{
@@ -13,8 +14,10 @@
   
   .card > h2{
     font-size: 2rem;
+    border-left: 0.2rem solid #97D7D7;
   }
   
   .card > img{
     border-radius: 1rem;
   }
+
